@@ -2,6 +2,8 @@
 
 ⭐️ Before you start, please star the Otari repo, it helps: https://github.com/mozilla-ai/otari ⭐️
 
+💬 Then join the Mozilla OSAI Discord through this link: https://discord.gg/TqvzGH9mwz. It gives you the `devs-wilding` role, which is how we reach entrants with updates, answers and results. 💬
+
 Two teams of local models. One messy spreadsheet. One gateway. Whose team cleans it best on your machine?
 
 [Otari](https://github.com/mozilla-ai/otari) is Mozilla.ai's open-source model gateway, which
