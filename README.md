@@ -2,6 +2,10 @@
 
 ⭐️ Before you start, please star the Otari repo, it helps: https://github.com/mozilla-ai/otari ⭐️
 
+📝 Register for the jam on DoraHacks: https://dorahacks.io/hackathon/mozilla-jam-sesh-1/detail 📝
+
+💬 Then join the Mozilla OSAI Discord through this link: https://discord.gg/TqvzGH9mwz. It gives you the `devs-wilding` role, which is how we reach entrants with updates, answers and results. 💬
+
 Two teams of local models. One messy spreadsheet. One gateway. Whose team cleans it best on your machine?
 
 [Otari](https://github.com/mozilla-ai/otari) is Mozilla.ai's open-source model gateway, which
@@ -274,7 +278,7 @@ opens things up to remote models.
 ## Submit
 
 The deadline is December 2, 2026, 11:59 PM ET. Submit on
-[DoraHacks](https://dorahacks.io/hackathon/2498/detail):
+[DoraHacks](https://dorahacks.io/hackathon/mozilla-jam-sesh-1/detail):
 
 1. A link to your public GitHub repo, made from this template, with your `team.yml`, every prompt
    it uses, and [SUBMISSION.md](SUBMISSION.md) filled in.
